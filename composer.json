@@ -3,7 +3,6 @@
     "alias": "AI工具助手",
     "description": "AI工具助手，生成amis",
     "type": "library",
-    "version": "1.0.0",
     "keywords": ["owl-admin", "extension"],
     "homepage": "https://github.com/hyperf-plus/ai-helper",
     "license": "MIT",
