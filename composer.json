@@ -1,7 +1,7 @@
 {
     "name": "hyperf-plus/ai-helper",
     "alias": "AI工具助手",
-    "description": "Description...",
+    "description": "AI工具助手，生成amis",
     "type": "library",
     "version": "1.0.0",
     "keywords": ["owl-admin", "extension"],
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "毛自豪",
+            "email": "4213509@qq.com"
         }
     ],
     "require": {
