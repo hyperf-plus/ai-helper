@@ -1,0 +1,33 @@
+{
+    "name": "hyperf-plus/ai-helper",
+    "alias": "AI工具助手",
+    "description": "Description...",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": ["owl-admin", "extension"],
+    "homepage": "https://github.com/hyperf-plus/ai-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "your name",
+            "email": "your email"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "slowlyo/owl-admin": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HPlus\\AI\\": "src/"
+        }
+    },
+    "extra": {
+        "owl-admin": "HPlus\\AI\\AiHelperServiceProvider",
+        "laravel": {
+            "providers": [
+                "HPlus\\AI\\AiHelperServiceProvider"
+            ]
+        }
+    }
+}
