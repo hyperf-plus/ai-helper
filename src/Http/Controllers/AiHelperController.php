@@ -1,8 +1,8 @@
 <?php
 
-namespace HPlus\AI\Http\Controllers;
+namespace HPlus\AIHelper\Http\Controllers;
 
-use HPlus\AI\Services\AIHelperService;
+use HPlus\AIHelper\Services\AIHelperService;
 use Slowlyo\OwlAdmin\Admin;
 use Slowlyo\OwlAdmin\Controllers\AdminController;
 use Slowlyo\OwlAdmin\Services\AdminCodeGeneratorService;

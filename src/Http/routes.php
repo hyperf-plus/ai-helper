@@ -1,6 +1,6 @@
 <?php
 
-use HPlus\AI\Http\Controllers;
+use HPlus\AIHelper\Http\Controllers;
 use Illuminate\Support\Facades\Route;
 
 Route::get('ai-helper', [Controllers\AiHelperController::class, 'index']);

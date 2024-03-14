@@ -1,6 +1,6 @@
 <?php
 
-namespace HPlus\AI;
+namespace HPlus\AIHelper;
 
 use Slowlyo\OwlAdmin\Renderers\TextControl;
 use Slowlyo\OwlAdmin\Extend\ServiceProvider;

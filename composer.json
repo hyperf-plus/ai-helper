@@ -23,10 +23,10 @@
         }
     },
     "extra": {
-        "owl-admin": "HPlus\\AI\\AiHelperServiceProvider",
+        "owl-admin": "HPlus\\AIHelper\\AiHelperServiceProvider",
         "laravel": {
             "providers": [
-                "HPlus\\AI\\AiHelperServiceProvider"
+                "HPlus\\AIHelper\\AiHelperServiceProvider"
             ]
         }
     }

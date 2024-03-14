@@ -1,8 +1,8 @@
 <?php
 
-namespace HPlus\AI\Services;
+namespace HPlus\AIHelper\Services;
 
-use HPlus\AI\AiHelperServiceProvider;
+use HPlus\AIHelper\AiHelperServiceProvider;
 use Illuminate\Support\Facades\Validator;
 use Slowlyo\OwlAdmin\Admin;
 use Slowlyo\OwlAdmin\Services\AdminCodeGeneratorService;
