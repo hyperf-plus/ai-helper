@@ -115,7 +115,7 @@ fetch(url,{
     "Authorization": `Bearer ' . request()->bearerToken() . '`
   },
   body: JSON.stringify({
-  prompt: event.data.prompt,
+  prompt: event.data.ai_optimization,
   gen:true
 })
   }).then(response => {
